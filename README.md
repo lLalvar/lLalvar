@@ -1,8 +1,8 @@
 # 🚀 I am a Front-end developer
 
 ## 🔥 My main skills:
- - ✔️ HTML5/CSS3
- - ✔️ LESS/SASS/SCSS
+ - ✔️ HTML5 / CSS3
+ - ✔️ LESS / SASS / SCSS
  - ✔️ Tailwind CSS, Styled Components, Bootstrap
  - ✔️ Responsive web design
  - ✔️ JavaScript (ES5, ES6, JSON, Axios, Fetch)
