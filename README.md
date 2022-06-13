@@ -1,4 +1,4 @@
-# 🚀 I am a Front-end developer
+# 🚀 I am a Web Developer
 
 ## 🔥 My main skills:
  - ✔️ HTML5 / CSS3
