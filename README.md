@@ -6,7 +6,7 @@
  - ✔️ Tailwind CSS, Styled Components, Bootstrap
  - ✔️ Responsive web design
  - ✔️ JavaScript (ES5, ES6, JSON, Axios, Fetch)
- - ✔️ React / Redux/toolkit
+ - ✔️ React / Vue.js
  - ✔️ Git / Yarn / npm
 
 ### 💻About me:
