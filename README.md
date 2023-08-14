@@ -10,4 +10,4 @@
  - ✔️ Git / Yarn / npm
 
 ### 💻About me:
-I am a self-taught Front-end developer. Currently, I am in my learning process and I want to improve my skills, learn new technologies, new programming languages, and so on.
+I am a self-taught Front-end developer. Currently, I want to improve my skills, learn new technologies, new programming languages, and so on.
